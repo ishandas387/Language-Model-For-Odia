@@ -1,7 +1,7 @@
 # Language-Model-For-Odia
 LSTM and Transformer Language model for Odia language
 
-<code><img height="20" src="https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=violet&color=1182c3&logoColor=white&label=%20">
+<code><img height="20" src="https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=orange&color=1182c3&logoColor=white&label=%20"/>
 
 # Poster
 
