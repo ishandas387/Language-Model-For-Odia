@@ -9,3 +9,8 @@ LSTM and Transformer Language model for Odia language
    <img align="center" alt="me"  width="100%" src="https://github.com/ishandas387/Language-Model-For-Odia/blob/master/poster/Poster.png" />
 </div>
 
+# Results
+
+<div>
+   <img align="center" alt="me"  width="100%" src="https://github.com/ishandas387/Language-Model-For-Odia/blob/master/poster/Results.png" />
+</div>
